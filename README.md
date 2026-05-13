@@ -1,3 +1,7 @@
+![Terraform](https://img.shields.io/badge/Terraform-v1.5+-7B42BC?logo=terraform)
+![AWS](https://img.shields.io/badge/AWS-ap--south--1-FF9900?logo=amazonaws)
+![Status](https://img.shields.io/badge/Status-Live-success)
+
 # Terraform AWS Infrastructure
 
 Production-style AWS infrastructure provisioned with Terraform using modular design.
